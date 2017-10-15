@@ -3,7 +3,7 @@
 .classpath
 .project
 .settings      
- ##filter databfile°¢sln file##
+ ##filter databfile„ÄÅsln file##
 *.mdb  
 *.ldb  
 *.sln    
@@ -34,4 +34,4 @@
 .Trashes  
 Icon?  
 ehthumbs.db  
-Thumbs.db    
+Thumbs.db  
